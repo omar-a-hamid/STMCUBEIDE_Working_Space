@@ -1,0 +1,10 @@
+LCD.c:26:6:LCD_init	8	static
+LCD.c:50:6:LCD_sendCommand	24	static
+LCD.c:107:6:LCD_displayCharacter	24	static
+LCD.c:164:6:LCD_displayString	24	static
+LCD.c:185:6:LCD_moveCursor	24	static
+LCD.c:213:6:LCD_displayStringRowColumn	16	static
+LCD.c:223:6:LCD_intgerToString	32	static
+LCD.c:234:6:LCD_clearScreen	8	static
+LCD.c:238:6:writePort_8bit	16	static
+LCD.c:251:6:writePort_4bit	16	static
